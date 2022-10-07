@@ -5,6 +5,8 @@ show_downloads: false
 url: "https://maestrojeong.github.io"
 baseurl: ""
 github:
+  url: https://github.com/maestrojeong
+  zip_url: https://github.com/maestrojeong
   another_url: https://github.com/maestrojeong
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
