@@ -44,7 +44,9 @@ paper / code / bibtex / talk video
 # Honers and Awards
 
 > 2021 Youlchon AI Star Felloship
+>
 > 2020 Qualcomm innovation Fellowship (South Korea) winner
+>
 > 2019 NRF Global PH.D. Fellowship Porgram 
 
 # Academic Services
