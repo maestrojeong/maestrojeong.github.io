@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<style>
+td, th{
+    border: none!important;
+}
+</style>
+
 I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh).
 I previously graduated from Seoul National University in 2018 with a B.S. in electical and computer engineering.
 
@@ -10,12 +16,12 @@ My research interests are combinatorial optimization and machine learning. Also,
 ```
 
 # Publications
-|---|
+||
+Optimal channel selection with discrete QCQP
 |---|
 
 ![CVPR19](https://github.com/maestrojeong/maestrojeong.github.io/blob/master/images/CVPR19_inv_crop.png")
 
-Optimal channel selection with discrete QCQP
 **Yeonwoo Jeong* **, Deokjae Lee*, Gaon An, Changyong Son, Hyun Oh Song
 International Conference on Artificial Intelligence and Statistics (AISTATS), 2022
 paper / code / bibtex
