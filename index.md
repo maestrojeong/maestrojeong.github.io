@@ -24,7 +24,7 @@ I'm serving as a technical research personnel in Seoul National University.
 
 |   |   |
 |---|---|
-| <img src="./images/aistat22.png" width="300"> |Optimal channel selection with discrete QCQP<br>**Yeonwoo Jeong**, Deokjae Lee, Gaon An, Changyong Son, Hyun Oh Song<br>_International Conference on Artificial Intelligence and Statistics (AISTATS), 2022_|
+| <img src="./images/aistat22.png" width="300"> |Optimal channel selection with discrete QCQP<br><span style="color: orange;">Yeonwoo Jeong</span>, Deokjae Lee, Gaon An, Changyong Son, Hyun Oh Song<br>_International Conference on Artificial Intelligence and Statistics (AISTATS), 2022_|
 | <img src="./images/CVPR19_inv_crop_t.png" width="300"> |End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization<br> **Yeonwoo Jeong**, Yoonsung Kim, Hyun Oh Song<br>_IEEE Computer Vision and Pattern Recognition (CVPR), 2019_|
 | <img src="./images/cascade_short.gif" width="300">|Learning Discrete and Continuous Factors of Data via Alternating Disentanglement<br>**Yeonwoo Jeong**, Hyun Oh Song<br>_International Conference on Machine Learning (ICML), 2019_|
 | <img src="./images/emi_integrate_fast.gif" width="300">|EMI: Exploration with Mutual Information<br>Hyoungseok Kim*, Jaekyeom Kim*, **Yeonwoo Jeong**, Sergey Levine, Hyun Oh Song<br>_International Conference on Machine Learning (ICML), 2019_<br> Long talk (159/3424=4.6%)|
