@@ -19,7 +19,7 @@ a{
 
 |   |   |
 |---|---|
-|I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh). I previously graduated from Seoul National University in 2018 with a B.S. in electical and computer engineering. My research interests are combinatorial optimization and machine learning.  Also, I'm interested in Blockchain and cryptocurrency.|<img src="./images/face.png" width="300">|
+|I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh). I previously graduated from Seoul National University in 2018 with a B.S. in electrical and computer engineering. My research interests are combinatorial optimization and machine learning.  Also, I'm interested in blockchain and cryptocurrency.|<img src="./images/face.png" width="300">|
 
 # /News
 ```
@@ -42,13 +42,13 @@ I'm serving as a technical research personnel in Seoul National University.
 
 # /Honors and Awards
 
-> 2021 Yulchon AI Star Felloship
+> 2021 Yulchon AI Star Fellowship
 >
 > 2020 Qualcomm innovation Fellowship (South Korea) winner
 >
-> 2019 NRF Global PH.D. Fellowship Porgram 
+> 2019 NRF Global PH.D. Fellowship Program 
 >
-> 2018 KFAS Computer Science Graudate Student Scholarship
+> 2018 KFAS Computer Science Graduate Student Scholarship
 
 # /Coding skills
 
