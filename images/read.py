@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import matplotlib.image as img
 import numpy as np
 
 def change(src, dst):
@@ -11,7 +10,7 @@ def change(src, dst):
     h, w = img.shape[:2]
 
     for hidx in range(h):
-        for widx in range(h):
+        for widx in range(w):
             if np.sum(np.abs(img[hidx][widx][:3] - sample))<=0.1:
                 img[hidx][widx][0] = 1
                 img[hidx][widx][1] = 1
