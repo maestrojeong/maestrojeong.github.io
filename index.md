@@ -43,11 +43,8 @@ paper / code / bibtex / talk video
 >
 > 2019 NRF Global PH.D. Fellowship Porgram 
 
-# Academic Services
-
-> Conference Reviewer : 
-
 # Coding skills
+>
 
 
 
