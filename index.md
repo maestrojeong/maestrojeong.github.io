@@ -18,7 +18,6 @@ My research interests are combinatorial optimization and machine learning. Also,
 # Publications
 
 <img src="./images/ICML18_inv.png" width="300">
-<img src="./images/cascade_short.gif" width="300">
 
 | <img src="./images/aistat22.png" width="300"> | 
 Optimal channel selection with discrete QCQP
@@ -34,18 +33,23 @@ End-to-End Efficient Representation Learning via Cascading Combinatorial Optimiz
 IEEE Computer Vision and Pattern Recognition (CVPR), 2019|
 
 
-ICML2019b
+| <img src="./images/cascade_short.gif" width="300">|
 Learning Discrete and Continuous Factors of Data via Alternating Disentanglement
-**Yeonwoo Jeong**, Hyun Oh Song
-International Conference on Machine Learning (ICML), 2019
-paper / supp / code / bibtex / talk video
 
-ICML2019a
+**Yeonwoo Jeong**, Hyun Oh Song
+
+International Conference on Machine Learning (ICML), 2019|
+
+
+| <img src="./images/emi_integrate_fast.gif" width="300">|
 EMI: Exploration with Mutual Information
+
 Hyoungseok Kim*, Jaekyeom Kim*, **Yeonwoo Jeong**, Sergey Levine, Hyun Oh Song
+
 International Conference on Machine Learning (ICML), 2019
+
 Long talk (159/3424=4.6%)
-paper / supp / code / bibtex / talk video
+|
 
 ICML2018
 Efficient end-to-end learning for quantizable representations
