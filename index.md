@@ -20,13 +20,18 @@ My research interests are combinatorial optimization and machine learning. Also,
 <img src="./images/ICML18_inv.png" width="300">
 <img src="./images/cascade_short.gif" width="300">
 
-| <img src="./images/aistat22.png" width="300"> | Optimal channel selection with discrete QCQP|
-|| **Yeonwoo Jeong**, Deokjae Lee, Gaon An, Changyong Son, Hyun Oh Song|
-||International Conference on Artificial Intelligence and Statistics (AISTATS), 2022|
+| <img src="./images/aistat22.png" width="300"> | 
+Optimal channel selection with discrete QCQP
 
-| <img src="./images/CVPR19_inv_crop.png" width="300"> | End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization|
-|| **Yeonwoo Jeong**, Yoonsung Kim, Hyun Oh Song|
-|| IEEE Computer Vision and Pattern Recognition (CVPR), 2019|
+**Yeonwoo Jeong**, Deokjae Lee, Gaon An, Changyong Son, Hyun Oh Song
+
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2022|
+| <img src="./images/CVPR19_inv_crop.png" width="300"> | 
+End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization
+
+**Yeonwoo Jeong**, Yoonsung Kim, Hyun Oh Song
+
+IEEE Computer Vision and Pattern Recognition (CVPR), 2019|
 
 
 ICML2019b
