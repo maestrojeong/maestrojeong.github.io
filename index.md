@@ -48,7 +48,7 @@ I'm serving as a technical research personnel in Seoul National University.
 >
 > 2019 NRF Global PH.D. Fellowship Porgram 
 >
-> 2018 KFAS cOmputer Science Graudate Student Scholarship
+> 2018 KFAS Computer Science Graudate Student Scholarship
 
 # /Coding skills
 
