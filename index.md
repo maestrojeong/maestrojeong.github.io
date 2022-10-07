@@ -15,6 +15,21 @@ I previously graduated from Seoul National University in 2018 with a B.S. in ele
 My research interests are combinatorial optimization and machine learning. Also, I'm interested in Web3 services.
 ```
 
+| Image  | Public |
+|---|---|
+|1 |2| 
+|3 |4| 
+|5 |6| 
+
+
+| Image  | Public |
+|---|---|
+| <img src="./images/aistat22.png" width="300"> || 
+| <img src="./images/CVPR19_inv_crop.png" width="300"> ||
+| <img src="./images/cascade_short.gif" width="300">||
+| <img src="./images/emi_integrate_fast.gif" width="300">|| 
+| <img src="./images/ICML18_inv.png" width="300">|| 
+
 # Publications
 
 |   |   |
