@@ -5,12 +5,15 @@ layout: default
 I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh).
 I previously graduated from Seoul National University in 2018 with a B.S. in electical and computer engineering.
 
+```
+My research interests are combinatorial optimization and machine learning. Also, I'm interested in Web3 services.
+```
+
 # Publications
 |---|
 |---|
 
-![CVPR19](https://maestrojeong.github.io/images/CVPR19_inv_crop.png')
-![CVPR19](images/CVPR19_inv_crop.png')
+![CVPR19](https://github.com/maestrojeong/maestrojeong.github.io/blob/master/images/CVPR19_inv_crop.png")
 
 Optimal channel selection with discrete QCQP
 **Yeonwoo Jeong* **, Deokjae Lee*, Gaon An, Changyong Son, Hyun Oh Song
@@ -44,32 +47,17 @@ International Conference on Machine Learning (ICML), 2018
 Long talk (213/2473=8.6%)
 paper / code / bibtex / talk video
 
-
-# Teaching Experience
-
-
 # Honers and Awards
 
+> Qualcomm 2020
+> youlchon
+>
 
 # Academic Services
 
 > Conference Reviewer : 
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 # Coding skills
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 
