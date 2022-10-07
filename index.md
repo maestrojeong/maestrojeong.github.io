@@ -17,7 +17,12 @@ My research interests are combinatorial optimization and machine learning. Also,
 
 # Publications
 
-<img src="./images/CVPR19_inv_crop.png" width="400">
+<img src="./images/CVPR19_inv_crop.png" width="300">
+<img src="./images/ICML18_inv.png" width="300">
+<img src="./images/cascade_short.gif" width="300">
+<img src="./images/aistat22.png" width="300">
+
+
 ```python
 Title = "Optimal channel selection with discrete QCQP"
 Authors = ["Yeonwoo Jeong", "Deokjae Lee", "Gaon An", "Changyong Son", "Hyun Oh Song"]
