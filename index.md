@@ -3,7 +3,10 @@ layout: default
 ---
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh).
+I previously graduated from Seoul National University in 2018 with a B.S. in Electic and computer engineering.
+
+
 ```
 
 ```
