@@ -25,7 +25,9 @@ Authors = ["Yeonwoo Jeong", "Deokjae Lee", "Gaon An", "Changyong Son", "Hyun Oh 
 Conference = "International Conference on Artificial Intelligence and Statistics (AISTATS), 2022"
 ```
 
-
+<div class="begin publications"></div>{
+float:left
+}
 CVPR2019
 End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization
 **Yeonwoo Jeong**, Yoonsung Kim, Hyun Oh Song
@@ -51,6 +53,9 @@ Efficient end-to-end learning for quantizable representations
 International Conference on Machine Learning (ICML), 2018
 Long talk (213/2473=8.6%)
 paper / code / bibtex / talk video
+<div class="end publications"></div>{
+clear:both;
+}
 
 # Honers and Awards
 
