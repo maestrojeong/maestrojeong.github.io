@@ -6,7 +6,11 @@ layout: default
 td, th{
     border: none!important;
 }
+a {
+ border: none !important;
+}
 </style>
+
 
 ## README.md
 
