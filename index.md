@@ -17,7 +17,7 @@ My research interests are combinatorial optimization and machine learning. Also,
 
 # Publications
 
-![CVPR19](https://github.com/maestrojeong/maestrojeong.github.io/blob/master/images/CVPR19_inv_crop.png")
+<img src="./images/CVPR19_inv_crop.png" width="400">
 
 ```python
 Title = "Optimal channel selection with discrete QCQP"
