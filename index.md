@@ -35,7 +35,7 @@ I'm serving as a technical research personnel in Seoul National University.
 
 # /Honors and Awards
 
-> 2021 Youlchon AI Star Felloship
+> 2021 Yulchon AI Star Felloship
 >
 > 2020 Qualcomm innovation Fellowship (South Korea) winner
 >
