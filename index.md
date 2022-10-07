@@ -16,15 +16,14 @@ My research interests are combinatorial optimization and machine learning. Also,
 ```
 
 # Publications
-||
-Optimal channel selection with discrete QCQP
-|---|
 
 ![CVPR19](https://github.com/maestrojeong/maestrojeong.github.io/blob/master/images/CVPR19_inv_crop.png")
 
-**Yeonwoo Jeong* **, Deokjae Lee*, Gaon An, Changyong Son, Hyun Oh Song
-International Conference on Artificial Intelligence and Statistics (AISTATS), 2022
-paper / code / bibtex
+```python
+Title = "Optimal channel selection with discrete QCQP"
+Authors = ["Yeonwoo Jeong", "Deokjae Lee", "Gaon An", "Changyong Son", "Hyun Oh Song"]
+Conference = "International Conference on Artificial Intelligence and Statistics (AISTATS), 2022"
+```
 
 
 CVPR2019
