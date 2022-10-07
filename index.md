@@ -20,8 +20,8 @@ I'm serving as a technical research personnel in Seoul National University.
 
 |   |   |
 |---|---|
-| <img src="./images/aistat22.png" width="300"> |Optimal channel selection with discrete QCQP<br>**Yeonwoo Jeong**, Deokjae Lee, Gaon An, Changyong Son, Hyun Oh Song<br>International Conference on Artificial Intelligence and Statistics (AISTATS), 2022|
-| <img src="./images/CVPR19_inv_crop.png" width="300"> |End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization<br> **Yeonwoo Jeong**, Yoonsung Kim, Hyun Oh Song<br>IEEE Computer Vision and Pattern Recognition (CVPR), 2019|
+| <img src="./images/aistat22.png" width="300"> |Optimal channel selection with discrete QCQP<br>**Yeonwoo Jeong**, Deokjae Lee, Gaon An, Changyong Son, Hyun Oh Song<br>_International Conference on Artificial Intelligence and Statistics (AISTATS), 2022_|
+| <img src="./images/CVPR19_inv_crop.png" width="300"> |End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization<br> **Yeonwoo Jeong**, Yoonsung Kim, Hyun Oh Song<br>_IEEE Computer Vision and Pattern Recognition (CVPR), 2019_|
 | <img src="./images/cascade_short.gif" width="300">||
 | <img src="./images/emi_integrate_fast.gif" width="300">|| 
 | <img src="./images/ICML18_inv.png" width="300">|| 
