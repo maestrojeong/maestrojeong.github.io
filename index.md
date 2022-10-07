@@ -8,15 +8,17 @@ td, th{
 }
 </style>
 
+# README.md
+
 I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh).
 I previously graduated from Seoul National University in 2018 with a B.S. in electical and computer engineering. My research interests are combinatorial optimization and machine learning.  Also, I'm interested in Blockchain and cryptocurrency. 
 
-# News
+# /News
 ```
 I'm serving as a technical research personnel in Seoul National University.
 ```
 
-# Publications
+# /Publications
 
 |   |   |
 |---|---|
@@ -26,7 +28,7 @@ I'm serving as a technical research personnel in Seoul National University.
 | <img src="./images/emi_integrate_fast.gif" width="300">|EMI: Exploration with Mutual Information<br>Hyoungseok Kim*, Jaekyeom Kim*, **Yeonwoo Jeong**, Sergey Levine, Hyun Oh Song<br>_International Conference on Machine Learning (ICML), 2019_<br> Long talk (159/3424=4.6%)|
 | <img src="./images/ICML18_inv.png" width="300">|Efficient end-to-end learning for quantizable representations<br>**Yeonwoo Jeong**, Hyun Oh Song<br>_International Conference on Machine Learning (ICML), 2018_<br>Long talk (213/2473=8.6%)|
 
-# Honers and Awards
+# /Honors and Awards
 
 > 2021 Youlchon AI Star Felloship
 >
@@ -36,7 +38,7 @@ I'm serving as a technical research personnel in Seoul National University.
 >
 > 2018 KFAS cOmputer Science Graudate Student Scholarship
 
-# Coding skills
+# /Coding skills
 > Rust ![](https://geps.dev/progress/30)
 >
 > Java ![](https://geps.dev/progress/50)
