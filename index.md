@@ -33,6 +33,8 @@ I'm serving as a technical research personnel in Seoul National University.
 > 2020 Qualcomm innovation Fellowship (South Korea) winner
 >
 > 2019 NRF Global PH.D. Fellowship Porgram 
+>
+> 2018 KFAS computer Science Graudate Student Scholarship
 
 # Coding skills
 > Rust ![](https://geps.dev/progress/30)
