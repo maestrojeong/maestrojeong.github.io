@@ -9,6 +9,10 @@ td, th{
 a{
   border-bottom: none !important;
 }
+a{
+  border: none !important;
+}
+
 </style>
 
 ## README.md
