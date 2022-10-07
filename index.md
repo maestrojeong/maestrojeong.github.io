@@ -18,16 +18,14 @@ My research interests are combinatorial optimization and machine learning. Also,
 # Publications
 
 <img src="./images/CVPR19_inv_crop.png" width="400">
-
 ```python
 Title = "Optimal channel selection with discrete QCQP"
 Authors = ["Yeonwoo Jeong", "Deokjae Lee", "Gaon An", "Changyong Son", "Hyun Oh Song"]
 Conference = "International Conference on Artificial Intelligence and Statistics (AISTATS), 2022"
 ```
 
-<div class="begin publications"></div>{
-float:left
-}
+<img src="https://maestrojeong.github.io/images/CVPR19_inv_crop.png" width="400">
+
 CVPR2019
 End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization
 **Yeonwoo Jeong**, Yoonsung Kim, Hyun Oh Song
@@ -53,9 +51,6 @@ Efficient end-to-end learning for quantizable representations
 International Conference on Machine Learning (ICML), 2018
 Long talk (213/2473=8.6%)
 paper / code / bibtex / talk video
-<div class="end publications"></div>{
-clear:both;
-}
 
 # Honers and Awards
 
