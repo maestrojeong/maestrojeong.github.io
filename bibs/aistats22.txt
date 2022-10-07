@@ -1,0 +1,5 @@
+@inproceedings{jeongAISTATS22,
+  Author    = {Yeonwoo Jeong and Deokjae Lee and Gaon An and Changyong Son and Hyun Oh Song},
+  Title     = {Optimal channel selection with discrete QCQP},
+  Booktitle = {International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  Year      = {2022}}

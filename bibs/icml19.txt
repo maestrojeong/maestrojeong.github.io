@@ -1,0 +1,9 @@
+@inproceedings{jeongICML19,
+    title={
+        Learning Discrete and Continuous Factors of Data via Alternating
+Disentanglement
+    },
+    author= {Yeonwoo Jeong and Hyun Oh Song},
+    booktitle={International Conference on Machine Learning (ICML)},
+    year={2019}
+}

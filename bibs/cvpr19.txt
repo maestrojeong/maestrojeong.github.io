@@ -1,0 +1,5 @@
+@inproceedings{songCVPR19,
+  Author    = {Yeonwoo Jeong and Yoonsung Kim and Hyun Oh Song},
+  Title     = {End-to-End Efficient Representation Learning via Cascading Combinatorial Optimization},
+  Booktitle = {IEEE Computer Vision and Pattern Recognition (CVPR)},
+  Year      = {2019}}

@@ -1,0 +1,5 @@
+@inproceedings{songICML18,
+  Author    = {Yeonwoo Jeong and Hyun Oh Song},
+  Title     = {Efficient end-to-end learning for quantiazable representations},
+  Booktitle = {International Conference on Machine Learning (ICML)},
+  Year      = {2018}}
