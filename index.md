@@ -44,7 +44,13 @@ paper / code / bibtex / talk video
 > 2019 NRF Global PH.D. Fellowship Porgram 
 
 # Coding skills
+> Rust ![](https://geps.dev/progress/30)
 >
+> Java ![](https://geps.dev/progress/50)
+>
+> C++ ![](https://geps.dev/progress/70)
+>
+> Python ![](https://geps.dev/progress/100)
 
 
 
