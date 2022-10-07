@@ -14,9 +14,9 @@ a {
 
 ## README.md
 
-<img src="./images/face.png" width="300"> 
-
-I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh). I previously graduated from Seoul National University in 2018 with a B.S. in electical and computer engineering. My research interests are combinatorial optimization and machine learning.  Also, I'm interested in Blockchain and cryptocurrency.
+|   |   |
+|---|---|
+|I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh). I previously graduated from Seoul National University in 2018 with a B.S. in electical and computer engineering. My research interests are combinatorial optimization and machine learning.  Also, I'm interested in Blockchain and cryptocurrency.|<img src="./images/face.png" width="300">|
 
 # /News
 ```
