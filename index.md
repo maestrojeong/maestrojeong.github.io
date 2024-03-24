@@ -19,11 +19,12 @@ a{
 
 |   |   |
 |---|---|
-|I'm a fifth-year Ph.D. student in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh). I previously graduated from Seoul National University in 2018 with a B.S. in electrical and computer engineering. My research interests are combinatorial optimization and machine learning.  Also, I'm interested in blockchain and cryptocurrency.|<img src="./images/face.png" width="300">|
+|
+I have obtained my Ph.D. in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh). I previously graduated from Seoul National University in 2018 with a B.S. in electrical and computer engineering. My research interest is efficient combinatorial optimization with deep learning algorithms. I handled several combinatorial optimization problems including energy minimization problems and QCQP in several domains: Hashing, disentanglement, and network lightweighting. I'm confident in formulating optimization problems and solve with efficient algorithm design.|<img src="./images/face.png" width="300">|
 
 # /News
 ```
-I'm serving as a technical research personnel in Seoul National University.
+I served as a technical research personnel in Seoul National University (2021-2024).
 ```
 
 # /Publications
@@ -58,4 +59,3 @@ I'm serving as a technical research personnel in Seoul National University.
 |Java| ![](https://geps.dev/progress/50)|
 |C++ | ![](https://geps.dev/progress/70)|
 |Python | ![](https://geps.dev/progress/100)|
-
