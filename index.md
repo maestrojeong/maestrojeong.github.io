@@ -17,10 +17,7 @@ a{
 
 ## README.md
 
-|   |   |
-|---|---|
-|
-I have obtained my Ph.D. in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh). I previously graduated from Seoul National University in 2018 with a B.S. in electrical and computer engineering. My research interest is efficient combinatorial optimization with deep learning algorithms. I handled several combinatorial optimization problems including energy minimization problems and QCQP in several domains: Hashing, disentanglement, and network lightweighting. I'm confident in formulating optimization problems and solve with efficient algorithm design.|<img src="./images/face.png" width="300">|
+I have obtained my Ph.D. in Computer Science and Engineering at Seoul National University, advised by [Hyun Oh Song](https://mllab.snu.ac.kr/hyunoh). I previously graduated from Seoul National University in 2018 with a B.S. in electrical and computer engineering. My research interest is efficient combinatorial optimization with deep learning algorithms. I handled several combinatorial optimization problems including energy minimization problems and QCQP in several domains: Hashing, disentanglement, and network lightweighting. I'm confident in formulating optimization problems and solve with efficient algorithm design. 
 
 # /News
 ```
